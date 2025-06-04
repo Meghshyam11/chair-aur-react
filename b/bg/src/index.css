@@ -1,0 +1,5 @@
+/* Tailwind directives removed or ensure Tailwind CSS is properly configured */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
